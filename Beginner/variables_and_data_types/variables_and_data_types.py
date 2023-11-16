@@ -1,5 +1,7 @@
 character_name = "Zahid"
 character_age = "28"
+character_salary = 60000.50
+is_male = true
 
 print("There is a man named " + character_name + ".")
 print("He is " + character_age + " years old.")
